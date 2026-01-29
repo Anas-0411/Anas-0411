@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there 👋 I'm Mohammad Anas (@Anas-0411)
 
-<!--
-**Anas-0411/Anas-0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | MERN Stack Enthusiast | Problem Solver  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **BlinkIt Clone (Full-Stack MERN Project)**
+- 🌱 I’m currently learning **Python** and **Advanced Backend Architecture**
+- 👯 I’m looking to collaborate on **Open-source MERN projects & Startup ideas**
+- 🤔 I’m looking for help with **System design & scalable architecture**
+- 💬 Ask me about **MERN Stack, React, Node.js, MongoDB, APIs, JWT Auth**
+- 📫 How to reach me: mohammadanas0411@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+**Frontend:** React, Vite, Bootstrap, Tailwind, Redux  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Auth:** JWT, OAuth  
+**Tools:** Git, GitHub, Postman, VS Code  
+
+---
+
+### 📈 Current Focus
+- Building production-grade MERN apps  
+- Scalable backend systems  
+- API security & performance optimization  
+- Cloud & DevOps basics  
+
+---
+
+⭐ _“Code. Learn. Build. Repeat.”_
+
+
