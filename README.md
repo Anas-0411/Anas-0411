@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mohammad Anas (@Anas-0411)
+## Hi there 👋 I'm Mohammad Anas (Anas-0411)
 
 🚀 Full-Stack Developer | MERN Stack Enthusiast | Problem Solver  
 
